@@ -1,0 +1,36 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input{
+    width: 150px;
+   height: 35px;
+   border: none;
+padding: 10px;
+border-radius: 5px;
+}
+#amount:hover{
+    background: 0,0, rgb(227, 227, 227);
+}
+select{
+    background: 0,0, rgb(227, 227, 227);
+    height: 35px;
+    border: none;
+    outline: none;
+    margin: 0 10px 0 10px;
+}
+select:hover{
+    background-color: rgb(200, 200, 200);
+}
+#result{
+    background-color: azure;
+}
+button{
+    width: 120px;
+    height: 35px;
+    color: white;
+    background-color: rgb(75, 75, 247);
+    border: none;
+    border-radius: 5px;
+
+}
